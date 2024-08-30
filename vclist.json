@@ -1,0 +1,9 @@
+[
+    {
+          "template": "SGGOrdreDeMissionV1",
+          "name": "Ordre de Mission",
+          "description": "Document Ordre de mission délivré par le Secrétariat Général du Gouvernement",
+          "source": "jxt"
+    }
+]
+  

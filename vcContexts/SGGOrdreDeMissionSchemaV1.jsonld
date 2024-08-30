@@ -1,0 +1,29 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "SGGOrdreDeMissionSchemaV1": {
+            "@id": "schema:SGGOrdreDeMissionSchemaV1",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "uid": "schema:name",
+                "nom": "schema:name",
+                "prenoms": "schema:name",
+                "dateNaissance": "schema:name",
+                "lieuNaissance": "schema:name",
+                "specialite": "schema:name",
+                "prefecture": "schema:name",
+                "session": "schema:name",
+                "numeroTable": "schema:name",
+                "typeDiplome": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}

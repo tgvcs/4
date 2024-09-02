@@ -35,6 +35,10 @@
                 "path": "credentialSubject.objet",
                 "encoder": "string"
             },
+              {
+                "path": "credentialSubject.type",
+                "encoder": "string"
+            },
             {
                 "path": "credentialSubject.ministere",
                 "encoder": "string"

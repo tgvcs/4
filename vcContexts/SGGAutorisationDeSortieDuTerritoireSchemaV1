@@ -1,0 +1,30 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "SGGAutorisationDeSortieDuTerritoireSchemaV1": {
+            "@id": "schema:SGGAutorisationDeSortieDuTerritoireSchemaV1",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "objet": "schema:name",
+                "ministere": "schema:name",
+                "numeroDossier": "schema:name",
+                "titulaire": "schema:name",
+                "depart": "schema:name",
+                "retour": "schema:name",
+                "itineraires": "schema:name",
+                "signataire": "schema:name",
+                "fonctionSignataire": "schema:name",
+                "dateSignature": "schema:name",
+                "email": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}

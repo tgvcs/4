@@ -4,6 +4,12 @@
           "name": "Ordre de Mission",
           "description": "Document Ordre de mission délivré par le Secrétariat Général du Gouvernement",
           "source": "jxt"
+    },
+    {
+          "template": "SGGAutorisationDeSortieDuTerritoireV1",
+          "name": "Autorisation de sortie du territoire",
+          "description": "Document d'autorisation de sortie du territoire délivré par le Secrétariat Général du Gouvernement",
+          "source": "jxt"
     }
 ]
   

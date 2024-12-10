@@ -60,7 +60,7 @@
                 "encoder": "string"
             },
             {
-                "path": "credentialSubject.itineraires",
+                "path": "credentialSubject.destination",
                 "encoder": "string"
             },
             {

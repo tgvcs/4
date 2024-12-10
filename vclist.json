@@ -6,7 +6,7 @@
           "source": "jxt"
     },
     {
-          "template": "SGGAutorisationDeSortieDuTerritoireV1",
+          "template": "SGGAutorisationDeSortieDuTerritoireSchemaV1",
           "name": "Autorisation de sortie du territoire",
           "description": "Document d'autorisation de sortie du territoire délivré par le Secrétariat Général du Gouvernement",
           "source": "jxt"

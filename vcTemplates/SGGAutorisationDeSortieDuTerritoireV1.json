@@ -31,6 +31,10 @@
                 "path": "proof.created",
                 "encoder": "isodatetime-epoch-base32"
             },
+             {
+                "path": "credentialSubject.reference",
+                "encoder": "string"
+            },
             {
                 "path": "credentialSubject.objet",
                 "encoder": "string"

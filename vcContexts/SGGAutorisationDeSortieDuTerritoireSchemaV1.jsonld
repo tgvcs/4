@@ -17,7 +17,7 @@
                 "titulaire": "schema:name",
                 "depart": "schema:name",
                 "retour": "schema:name",
-                "itineraires": "schema:name",
+                "destination": "schema:name",
                 "signataire": "schema:name",
                 "fonctionSignataire": "schema:name",
                 "dateSignature": "schema:name",
